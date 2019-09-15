@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yifan Zhang, Computer Science, SUNY Binghamton</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/bu-logo.jpg</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Case for Web Service Bandwidth Reduction on Mobile Devices with Edge-hosted Personal Services</title>
+      <link>/publication/2018-infocom-eta/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-infocom-eta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EdgeCourier: An Edge-hosted Personal Service for Low-bandwidth Document Synchronization in Mobile Cloud Storage Services</title>
+      <link>/publication/2017-sec-edgecourier/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-sec-edgecourier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Securing Device Inputs for Smartphones Using Hypervisor Based Approach</title>
+      <link>/publication/2017-mobisys-poster-sdif/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-mobisys-poster-sdif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: EPS - Edge-hosted Personal Services for Mobile Users</title>
+      <link>/publication/2017-mobisys-poster-eps/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-mobisys-poster-eps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StoArranger: Enabling Efficient Usage of Cloud Storage Services on Mobile Devices</title>
+      <link>/publication/2017-icdcs-stoarranger/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-icdcs-stoarranger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Accurate and Efficient Modeling-based CPU Power Estimation for Smartphones</title>
+      <link>/publication/2017-iwqos-power-modeling/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-iwqos-power-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Cloud Storage Usage Experience for Mobile Applications</title>
+      <link>/publication/2016-apsys-stoarranger/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-apsys-stoarranger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical Media Covert Channels on Smart Mobile Devices</title>
+      <link>/publication/2015-ubicomp-covert-channel/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-ubicomp-covert-channel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security and Privacy for Body Cameras Used in Law Enforcement</title>
+      <link>/publication/2015-cns-body-cam/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-cns-body-cam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMOC: A Secure Mobile Cloud Computing Platform</title>
+      <link>/publication/2015-infocom-smoc/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-infocom-smoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mQual: A Mobile Peer-to-Peer Network Framework Supporting Quality of Service</title>
+      <link>/publication/2015-icdcs-poster-mqual/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-icdcs-poster-mqual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VProof: Lightweight Privacy-Preserving Vehicle Location Proofs</title>
+      <link>/publication/2015-tvt-vproof/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-tvt-vproof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting ZigBee in Reducing WiFi Power Consumption for Mobile Devices</title>
+      <link>/publication/2014-tmc-howies/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-tmc-howies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR-Defender: Self Defense against Vehicular Rogue APs for Drive-thru Internet</title>
+      <link>/publication/2014-tvt-vrdefender/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-tvt-vrdefender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel Hopping Based Communication Rendezvous in Cognitive Radio Networks</title>
+      <link>/publication/2014-ton-etch/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-ton-etch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Better CPU Power Management on Multicore Smartphones</title>
+      <link>/publication/2013-hotpower-power-modeling/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-hotpower-power-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CacheKeeper: A System-wide Web Caching Service for Smartphones</title>
+      <link>/publication/2013-ubicomp-cachekeeper/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-ubicomp-cachekeeper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HoWiES: A Holistic Approach to ZigBee Assisted WiFi Energy Savings in Mobile Devices</title>
+      <link>/publication/2013-infocom-howies/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-infocom-howies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ETCH: EfficienT Channel Hopping for Communication Rendezvous in Dynamic Spectrum Access Networks</title>
+      <link>/publication/2011-infocom-etch/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-infocom-etch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defending Against Vehicular Rogue AP</title>
+      <link>/publication/2011-infocom-vrdefender/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-infocom-vrdefender/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

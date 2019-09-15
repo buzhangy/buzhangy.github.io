@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yifan Zhang, Computer Science, SUNY Binghamton</title>
+    <link>/authors/yifan/</link>
+      <atom:link href="/authors/yifan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yifan Zhang, Computer Science, SUNY Binghamton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/bu-logo.jpg</url>
+      <title>Yifan Zhang, Computer Science, SUNY Binghamton</title>
+      <link>/authors/yifan/</link>
+    </image>
+    
+  </channel>
+</rss>

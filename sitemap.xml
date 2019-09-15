@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-infocom-eta/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-sec-edgecourier/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-mobisys-poster-sdif/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-mobisys-poster-eps/</loc>
+    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-icdcs-stoarranger/</loc>
+    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-iwqos-power-modeling/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2016-apsys-stoarranger/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015-ubicomp-covert-channel/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015-cns-body-cam/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015-infocom-smoc/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015-icdcs-poster-mqual/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015-tvt-vproof/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2014-tmc-howies/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2014-tvt-vrdefender/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2014-ton-etch/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013-hotpower-power-modeling/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013-ubicomp-cachekeeper/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013-infocom-howies/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2011-infocom-etch/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2011-infocom-vrdefender/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yifan/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+</urlset>

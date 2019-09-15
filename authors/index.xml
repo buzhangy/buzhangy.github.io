@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Yifan Zhang, Computer Science, SUNY Binghamton</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/bu-logo.jpg</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/yifan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/yifan/</guid>
+      <description>&lt;p style=&#34;font-size:19px&#34;&gt;
+I am an Assistant Professor in the Computer Science Department at the Binghamton University. I received my Ph.D. in Computer Science from the &lt;a href=&#34;https://www.wm.edu/as/computerscience/index.php&#34;&gt;College of William and Mary&lt;/a&gt;, and B.S. in Computer Science from &lt;a href=&#34;https://en.wikipedia.org/wiki/Beihang_University&#34;&gt;Beihang University&lt;/a&gt;. I spent several years in industry as a system software engineer before joining academia.
+&lt;/p&gt;
+
+&lt;p style=&#34;font-size:19px&#34;&gt;
+My research interests are generally in the areas of mobile computing systems, operating systems, embedded systems and wireless networks. Within these areas, I am especially interested in building system supports for emerging computing paradigms, such as edge/cloud computing, mobile/IoT applications, and distributed machine learning. Please check my recent papers below for more details.
+&lt;/p&gt;
+
+&lt;p style=&#34;font-size:19px&#34;&gt;
+&lt;font color=&#34;SeaBlue&#34;&gt;I am looking for motivated students to work with me in the above research areas/directions. If you are interested and are good at programming, please send me an email, or stop by and let&#39;s chat.&lt;/font&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
