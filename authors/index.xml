@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Yifan Zhang, Computer Science, SUNY Binghamton</title>
+    <title>Authors | Yifan Zhang, Computer Science, Binghamton University, SUNY</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/yifan/</guid>
       <description>&lt;p style=&#34;font-size:19px&#34;&gt;
-I am an Assistant Professor in the Computer Science Department at the Binghamton University. I received my Ph.D. in Computer Science from the &lt;a href=&#34;https://www.wm.edu/as/computerscience/index.php&#34;&gt;College of William and Mary&lt;/a&gt;, and B.S. in Computer Science from &lt;a href=&#34;https://en.wikipedia.org/wiki/Beihang_University&#34;&gt;Beihang University&lt;/a&gt;. I spent several years in industry as a system software engineer before joining academia.
+I am an Associate Professor in the Computer Science Department at the Binghamton University. I received my Ph.D. in Computer Science from the &lt;a href=&#34;https://www.wm.edu/as/computerscience/index.php&#34;&gt;College of William and Mary&lt;/a&gt;, and B.S. in Computer Science from &lt;a href=&#34;https://en.wikipedia.org/wiki/Beihang_University&#34;&gt;Beihang University&lt;/a&gt;. I spent several years in industry as a system software engineer before joining academia.
 &lt;/p&gt;
 
 &lt;p style=&#34;font-size:19px&#34;&gt;

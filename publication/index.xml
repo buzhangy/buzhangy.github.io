@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Yifan Zhang, Computer Science, SUNY Binghamton</title>
+    <title>Publications | Yifan Zhang, Computer Science, Binghamton University, SUNY</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/bu-logo.jpg</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>EDDL: A Distributed Deep Learning System for Resource-limited Edge Computing Environment</title>
+      <link>/publication/2021-sec-eddl/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-sec-eddl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReACt: A Resource-centric Access Control System for Web-app Interactions on Android</title>
+      <link>/publication/2021-www-react/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-www-react/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Case for Web Service Bandwidth Reduction on Mobile Devices with Edge-hosted Personal Services</title>

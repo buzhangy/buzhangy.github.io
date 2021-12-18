@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yifan Zhang, Computer Science, SUNY Binghamton</title>
+    <title>Yifan Zhang, Computer Science, Binghamton University, SUNY</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yifan Zhang, Computer Science, SUNY Binghamton</description>
+    <description>Yifan Zhang, Computer Science, Binghamton University, SUNY</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/bu-logo.jpg</url>
-      <title>Yifan Zhang, Computer Science, SUNY Binghamton</title>
+      <title>Yifan Zhang, Computer Science, Binghamton University, SUNY</title>
       <link>/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
@@ -33,14 +41,6 @@
       <link>/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/slides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
       <description></description>
     </item>
     
