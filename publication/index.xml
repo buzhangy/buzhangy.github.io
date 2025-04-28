@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/bu-logo.jpg</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Meunik: Rethinking Virtual Machine Memory Resource Management for Unikernel-based VMs</title>
+      <link>/publication/2024-sec-meunik/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024-sec-meunik/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EDDL: A Distributed Deep Learning System for Resource-limited Edge Computing Environment</title>
